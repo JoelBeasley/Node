@@ -1,6 +1,9 @@
-Readme for Mac install.
+# Readme for Mac install.
 
-**Project requirements:**
+![Mor Screenshot](/mor_screenshot.png?raw=true "MOR Screenshot")
+
+
+## Project requirements:
 
 - NPM
 - Node.js 
@@ -16,7 +19,7 @@ After you have these installed you can run the command
 
 Now the Electron instance of MOR should be running. 
 
-**Trouble Shooting**
+## Trouble Shooting
 
 If there is a crash and you get this error 
 
