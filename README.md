@@ -1,6 +1,6 @@
 Readme for Mac install.
 
-**Project reuirements:**
+**Project requirements:**
 
 - NPM
 - Node.js 
